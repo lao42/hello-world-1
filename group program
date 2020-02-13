@@ -1,1 +1,4 @@
 hello = input("enter your name: ")
+n = int(input(prompt="Enter a number")
+n2 = n+1
+print(n, "+1=", n2)
